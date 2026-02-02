@@ -4,7 +4,7 @@
 **IntSteer** is a research codebase for analyzing the internal mechanistic signals that govern the success and failure of activation-based steering in large language models (LLMs).
 
 > **Preprint title:**  
-> *Mechanistic Indicators of Steering Success in Large Language Models*
+> *Mechanistic Indicators of Steering Effectiveness in Large Language Models*
 
 ---
 
